@@ -1,0 +1,1 @@
+[qertdzxys] this is  a input file used to get the random password choices for a random password generator.now this is used to read theline length of the program
